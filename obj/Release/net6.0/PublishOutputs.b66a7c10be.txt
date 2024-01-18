@@ -1,0 +1,7 @@
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\PracticeProject4bank.exe
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\PracticeProject4bank.dll
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\PracticeProject4bank.deps.json
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\PracticeProject4bank.runtimeconfig.json
+C:\Users\Vinay\Desktop\Practiceproject4\PracticeProject4bank\PracticeProject4bank\obj\Release\net6.0\PubTmp\Out\PracticeProject4bank.pdb
